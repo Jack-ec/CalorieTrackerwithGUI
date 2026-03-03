@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ca.ucalgary.jack.chidlaw.group24finalsubmission.MainApplicat
+ ion
+
